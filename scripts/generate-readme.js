@@ -49,7 +49,6 @@ class ReadmeGenerator {
       METRICS_SECTION: this.generateMetricsSection(data.metrics),
       TOP_REPOS_SECTION: this.generateTopReposSection(data.repositories),
       TEAM_SECTION: this.generateTeamSection(data.members),
-      ACTIVITY_SECTION: this.generateActivitySection(data.activity),
       TECH_STACK_SECTION: this.generateTechStackSection(data.metrics.topLanguages),
       QUICK_STATS_SECTION: this.generateQuickStatsSection(data.metrics, data.organization),
       LAST_UPDATED: data.lastUpdated
@@ -116,19 +115,6 @@ class ReadmeGenerator {
     return section;
   }
 
-  generateActivitySection(activities) {
-    if (activities.length === 0) {
-      return '*No recent activity in the past week*';
-    }
-
-    let section = '';
-    activities.slice(0, 5).forEach(activity => {
-      const date = new Date(activity.date).toLocaleDateString();
-      section += `- 🚀 **${activity.title}** released in \`${activity.repo}\` *(${date})*\n`;
-    });
-
-    return section;
-  }
 
   generateTechStackSection(topLanguages) {
     if (topLanguages.length === 0) {

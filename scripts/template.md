@@ -58,12 +58,6 @@
 
 ---
 
-## 📈 Recent Activity
-
-{{ACTIVITY_SECTION}}
-
----
-
 ## 🛠️ Technologies We Use
 
 {{TECH_STACK_SECTION}}
