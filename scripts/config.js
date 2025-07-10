@@ -2,7 +2,7 @@ module.exports = {
   // Required permissions: repo:status, read:org, read:user
   // TODO: move this to github secrets
   GITHUB_TOKEN:
-    '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',
+    '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',
   ORG_NAME: 'desertcart',
   MAX_REPOS_DISPLAY: 10,
   MAX_CONTRIBUTORS_DISPLAY: 8,
