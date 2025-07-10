@@ -47,7 +47,7 @@
 
 | 📁 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👥 Team Members |
 |:---------------:|:--------------:|:---------------:|:---------------:|
-| **18** | **0** | **3** | **0** |
+| **67** | **8** | **3** | **26** |
 
 </div>
 
@@ -57,16 +57,16 @@
 
 | Repository | Description | Language | ⭐ Stars | 🍴 Forks |
 |:-----------|:------------|:---------|:--------:|:--------:|
+| **desertcart** | Main website | Ruby | 6 | 0 |
+| **dropbot** | *No description* | Ruby | 1 | 0 |
+| **scraper** | Scraper code repo | HTML | 1 | 0 |
 | **.github** | *No description* | JavaScript | 0 | 0 |
-| **desertcart-ruby** | Ruby client for Desertcart API | Ruby | 0 | 2 |
-| **amazon_selling_partners** | *No description* | Ruby | 0 | 0 |
-| **aws-assume-role-buildkite-plugin** | Buildkite plugin to assume IAM role before runn... | Shell | 0 | 0 |
-| **docker-ecr-publish-buildkite-plugin** | Build, tag, and push Docker images to Amazon ECR | Shell | 0 | 0 |
-| **perilune** | Handling imports/exports with ease like its 2022. | JavaScript | 0 | 1 |
-| **ledger_sync-stripe** | *No description* | Ruby | 0 | 0 |
-| **amazon_business_api** | A gem to interact with Amazon Business API usin... | Ruby | 0 | 0 |
-| **ledger_sync** | Sync to QuickBooks, Xero, NetSuite, and more. | Ruby | 0 | 0 |
-| **kaminari-mongoid** | Kaminari Mongoid adapter | Ruby | 0 | 0 |
+| **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
+| **browser** | *No description* | TypeScript | 0 | 0 |
+| **garrulous** | *No description* | C++ | 0 | 0 |
+| **ledger_sync-noon** | LedgerSync client for Noon marketplace | N/A | 0 | 0 |
+| **desertcart-mobile-app** | This is your Expo project repository created fr... | JavaScript | 0 | 0 |
+| **desertcart-fulfillment** | *No description* | TypeScript | 0 | 0 |
 
 
 ---
@@ -74,6 +74,12 @@
 ## 👥 Our Team
 
 <div align="center">
+
+<a href="https://github.com/aleonjob"><img src="https://avatars.githubusercontent.com/u/5637374?v=4" width="60" height="60" alt="aleonjob" style="border-radius: 50%; margin: 10px;"></a><a href="https://github.com/AlexAvlonitis"><img src="https://avatars.githubusercontent.com/u/8425834?v=4" width="60" height="60" alt="AlexAvlonitis" style="border-radius: 50%; margin: 10px;"></a><a href="https://github.com/AliiIbrahim"><img src="https://avatars.githubusercontent.com/u/184735758?v=4" width="60" height="60" alt="AliiIbrahim" style="border-radius: 50%; margin: 10px;"></a><a href="https://github.com/aman32767"><img src="https://avatars.githubusercontent.com/u/52220597?v=4" width="60" height="60" alt="aman32767" style="border-radius: 50%; margin: 10px;"></a>
+
+<a href="https://github.com/anondita"><img src="https://avatars.githubusercontent.com/u/43874191?v=4" width="60" height="60" alt="anondita" style="border-radius: 50%; margin: 10px;"></a><a href="https://github.com/bluecaterpillar"><img src="https://avatars.githubusercontent.com/u/22029842?v=4" width="60" height="60" alt="bluecaterpillar" style="border-radius: 50%; margin: 10px;"></a><a href="https://github.com/cemreakkaya"><img src="https://avatars.githubusercontent.com/u/208569280?v=4" width="60" height="60" alt="cemreakkaya" style="border-radius: 50%; margin: 10px;"></a><a href="https://github.com/debobrototalukder"><img src="https://avatars.githubusercontent.com/u/49939039?v=4" width="60" height="60" alt="debobrototalukder" style="border-radius: 50%; margin: 10px;"></a>
+
+*...and 18 more amazing team members!*
 
 </div>
 
@@ -89,7 +95,7 @@
 
 <div align="center">
 
-💎 **Ruby** (9 repos)  🟨 **JavaScript** (3 repos)  🐚 **Shell** (2 repos)  📝 **CoffeeScript** (1 repo)  
+🟨 **JavaScript** (18 repos)  💎 **Ruby** (13 repos)  🔷 **TypeScript** (5 repos)  🌐 **HTML** (5 repos)  📝 **Jupyter Notebook** (5 repos)  
 
 </div>
 
@@ -102,8 +108,8 @@
 
 🎯 **Average Stars per Repository:** 0  
 📅 **Organization Founded:** 2014  
-🏗️ **Active Repositories:** 18  
-📦 **Archived Projects:** 0
+🏗️ **Active Repositories:** 65  
+📦 **Archived Projects:** 2
 
 </div>
 
@@ -111,7 +117,7 @@
 
 <div align="center">
 
-*Last updated: 2025-07-10 08:34 UTC*
+*Last updated: 2025-07-10 08:42 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
