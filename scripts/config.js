@@ -1,8 +1,7 @@
 module.exports = {
   // Required permissions: repo:status, read:org, read:user
-  // TODO: move this to github secrets
-  GITHUB_TOKEN:
-    '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',
+  // Set GITHUB_TOKEN environment variable before running
+  GITHUB_TOKEN: process.env.GITHUB_TOKEN || '',
   ORG_NAME: 'desertcart',
   MAX_REPOS_DISPLAY: 10,
   MAX_CONTRIBUTORS_DISPLAY: 8,
