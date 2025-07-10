@@ -33,3 +33,86 @@
 ............................................................
 ............................................................
 ```
+
+# 🏢 Desertcart
+
+*Building amazing software together*
+
+---
+
+## 📊 Organization Overview
+
+
+<div align="center">
+
+| 📁 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👥 Team Members |
+|:---------------:|:--------------:|:---------------:|:---------------:|
+| **18** | **0** | **3** | **0** |
+
+</div>
+
+---
+
+## 🚀 Top Repositories
+
+| Repository | Description | Language | ⭐ Stars | 🍴 Forks |
+|:-----------|:------------|:---------|:--------:|:--------:|
+| **.github** | *No description* | JavaScript | 0 | 0 |
+| **desertcart-ruby** | Ruby client for Desertcart API | Ruby | 0 | 2 |
+| **amazon_selling_partners** | *No description* | Ruby | 0 | 0 |
+| **aws-assume-role-buildkite-plugin** | Buildkite plugin to assume IAM role before runn... | Shell | 0 | 0 |
+| **docker-ecr-publish-buildkite-plugin** | Build, tag, and push Docker images to Amazon ECR | Shell | 0 | 0 |
+| **perilune** | Handling imports/exports with ease like its 2022. | JavaScript | 0 | 1 |
+| **ledger_sync-stripe** | *No description* | Ruby | 0 | 0 |
+| **amazon_business_api** | A gem to interact with Amazon Business API usin... | Ruby | 0 | 0 |
+| **ledger_sync** | Sync to QuickBooks, Xero, NetSuite, and more. | Ruby | 0 | 0 |
+| **kaminari-mongoid** | Kaminari Mongoid adapter | Ruby | 0 | 0 |
+
+
+---
+
+## 👥 Our Team
+
+<div align="center">
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+*No recent activity in the past week*
+
+---
+
+## 🛠️ Technologies We Use
+
+<div align="center">
+
+💎 **Ruby** (9 repos)  🟨 **JavaScript** (3 repos)  🐚 **Shell** (2 repos)  📝 **CoffeeScript** (1 repo)  
+
+</div>
+
+---
+
+## 📅 Quick Stats
+
+
+<div align="center">
+
+🎯 **Average Stars per Repository:** 0  
+📅 **Organization Founded:** 2014  
+🏗️ **Active Repositories:** 18  
+📦 **Archived Projects:** 0
+
+</div>
+
+---
+
+<div align="center">
+
+*Last updated: 2025-07-10 08:34 UTC*
+
+**🤖 This profile updates automatically twice daily**
+
+</div>
