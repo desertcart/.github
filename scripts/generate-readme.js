@@ -101,7 +101,7 @@ class ReadmeGenerator {
       const row = displayMembers.slice(i, i + 4);
       
       row.forEach(member => {
-        section += `<a href="https://github.com/${member.login}"><img src="${member.avatarUrl}" width="60" height="60" alt="${member.login}" style="border-radius: 50%; margin: 10px;"></a>`;
+        section += `<a href="https://github.com/${member.login}"><img src="${member.avatarUrl}" width="60" height="60" alt="${member.login}" style="border-radius: 50%; margin: 15px; padding: 3px; border: 2px solid #f0f0f0;"></a>`;
       });
       
       section += '\n\n';
