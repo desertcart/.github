@@ -1,0 +1,44 @@
+name: Update Organization Profile
+on:
+  schedule:
+    - cron: '0 4,16 * * *' # 8 AM & 8 PM GST (twice daily)
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: 'scripts/package-lock.json'
+
+      - name: Install dependencies
+        run: |
+          cd scripts
+          npm ci
+
+      - name: Generate dynamic README
+        run: |
+          cd scripts
+          node generate-readme.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile/README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update organization profile - $(date '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

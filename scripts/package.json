@@ -1,0 +1,16 @@
+{
+  "name": "github-profile-updater",
+  "version": "1.0.0",
+  "description": "Dynamic GitHub organization profile generator",
+  "main": "generate-readme.js",
+  "scripts": {
+    "update": "node generate-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "moment": "^2.29.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

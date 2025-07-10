@@ -1,0 +1,9 @@
+# Node.js
+scripts/node_modules/
+scripts/.env
+
+# Logs
+*.log
+
+## Claude
+.claude/settings.local.json
