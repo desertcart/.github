@@ -47,7 +47,7 @@
 
 | 📁 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👥 Team Members |
 |:---------------:|:--------------:|:---------------:|:---------------:|
-| **67** | **8** | **3** | **26** |
+| **67** | **7** | **3** | **26** |
 
 </div>
 
@@ -57,7 +57,7 @@
 
 | Repository | Description | Language | ⭐ Stars | 🍴 Forks |
 |:-----------|:------------|:---------|:--------:|:--------:|
-| **desertcart** | Main website | Ruby | 6 | 0 |
+| **desertcart** | Main website | Ruby | 5 | 0 |
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
 | **.github** | *No description* | JavaScript | 0 | 0 |
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-07-17 16:08 UTC*
+*Last updated: 2025-07-18 04:20 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
