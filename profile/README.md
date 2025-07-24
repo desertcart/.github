@@ -47,7 +47,7 @@
 
 | 📁 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👥 Team Members |
 |:---------------:|:--------------:|:---------------:|:---------------:|
-| **68** | **7** | **3** | **26** |
+| **69** | **7** | **3** | **26** |
 
 </div>
 
@@ -60,13 +60,13 @@
 | **desertcart** | Main website | Ruby | 5 | 0 |
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
+| **dc-services** | GitOps repository for our internal applications | N/A | 0 | 0 |
 | **.github** | *No description* | JavaScript | 0 | 0 |
 | **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
 | **searchAutoComplete** | *No description* | JavaScript | 0 | 0 |
 | **browser** | *No description* | TypeScript | 0 | 0 |
 | **garrulous** | *No description* | C++ | 0 | 0 |
 | **ledger_sync-noon** | LedgerSync client for Noon marketplace | N/A | 0 | 0 |
-| **desertcart-mobile-app** | This is your Expo project repository created fr... | JavaScript | 0 | 0 |
 
 
 ---
@@ -102,7 +102,7 @@
 
 🎯 **Average Stars per Repository:** 0  
 📅 **Organization Founded:** 2014  
-🏗️ **Active Repositories:** 66  
+🏗️ **Active Repositories:** 67  
 📦 **Archived Projects:** 2
 
 </div>
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-07-24 04:20 UTC*
+*Last updated: 2025-07-24 16:08 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
