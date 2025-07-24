@@ -60,8 +60,8 @@
 | **desertcart** | Main website | Ruby | 5 | 0 |
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
-| **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
 | **.github** | *No description* | JavaScript | 0 | 0 |
+| **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
 | **searchAutoComplete** | *No description* | JavaScript | 0 | 0 |
 | **browser** | *No description* | TypeScript | 0 | 0 |
 | **garrulous** | *No description* | C++ | 0 | 0 |
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-07-23 16:08 UTC*
+*Last updated: 2025-07-24 04:20 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
