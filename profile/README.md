@@ -60,8 +60,8 @@
 | **desertcart** | Main website | Ruby | 5 | 0 |
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
-| **.github** | *No description* | JavaScript | 0 | 0 |
 | **dc-services** | GitOps repository for our internal applications | N/A | 0 | 0 |
+| **.github** | *No description* | JavaScript | 0 | 0 |
 | **desertcart-ruby** | Ruby client for Desertcart API | Ruby | 0 | 2 |
 | **searchAutoComplete** | *No description* | JavaScript | 0 | 0 |
 | **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-08-10 16:07 UTC*
+*Last updated: 2025-08-11 04:23 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
