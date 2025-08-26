@@ -60,13 +60,13 @@
 | **desertcart** | Main website | Ruby | 5 | 0 |
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
-| **.github** | *No description* | JavaScript | 0 | 0 |
-| **dc-services** | GitOps repository for our internal applications | N/A | 0 | 0 |
-| **desertcart-mobile-app** | This is your Expo project repository created fr... | JavaScript | 0 | 0 |
 | **perilune** | Handling imports/exports with ease like its 2022. | JavaScript | 0 | 1 |
+| **dc-services** | GitOps repository for our internal applications | N/A | 0 | 0 |
+| **browser** | *No description* | TypeScript | 0 | 0 |
+| **.github** | *No description* | JavaScript | 0 | 0 |
+| **desertcart-mobile-app** | This is your Expo project repository created fr... | JavaScript | 0 | 0 |
 | **desertcart-ruby** | Ruby client for Desertcart API | Ruby | 0 | 2 |
 | **subscriptions-ltv** | *No description* | N/A | 0 | 0 |
-| **amazon_selling_partners** | *No description* | Ruby | 0 | 0 |
 
 
 ---
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-08-26 04:08 UTC*
+*Last updated: 2025-08-26 16:08 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
