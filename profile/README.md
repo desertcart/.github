@@ -61,12 +61,12 @@
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
 | **dc-services** | GitOps repository for our internal applications | N/A | 0 | 0 |
+| **subscriptions-ltv** | *No description* | Python | 0 | 0 |
 | **.github** | *No description* | JavaScript | 0 | 0 |
 | **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
 | **perilune** | Handling imports/exports with ease like its 2022. | JavaScript | 0 | 1 |
 | **browser** | *No description* | TypeScript | 0 | 0 |
 | **desertcart-mobile-app** | This is your Expo project repository created fr... | JavaScript | 0 | 0 |
-| **desertcart-ruby** | Ruby client for Desertcart API | Ruby | 0 | 2 |
 
 
 ---
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-08-29 04:07 UTC*
+*Last updated: 2025-08-29 16:07 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
