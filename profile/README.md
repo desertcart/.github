@@ -47,7 +47,7 @@
 
 | 📁 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👥 Team Members |
 |:---------------:|:--------------:|:---------------:|:---------------:|
-| **70** | **6** | **3** | **24** |
+| **71** | **6** | **3** | **24** |
 
 </div>
 
@@ -61,12 +61,12 @@
 | **dropbot** | *No description* | Ruby | 1 | 0 |
 | **scraper** | Scraper code repo | HTML | 1 | 0 |
 | **dc-services** | GitOps repository for our internal applications | N/A | 0 | 0 |
+| **hetzner-services** | *No description* | N/A | 0 | 0 |
 | **.github** | *No description* | JavaScript | 0 | 0 |
 | **desertcart-mobile-app** | This is your Expo project repository created fr... | JavaScript | 0 | 0 |
 | **subscriptions-ltv** | *No description* | Python | 0 | 0 |
 | **coupong-scrapper** | *No description* | JavaScript | 0 | 0 |
 | **perilune** | Handling imports/exports with ease like its 2022. | JavaScript | 0 | 1 |
-| **browser** | *No description* | TypeScript | 0 | 0 |
 
 
 ---
@@ -102,7 +102,7 @@
 
 🎯 **Average Stars per Repository:** 0  
 📅 **Organization Founded:** 2014  
-🏗️ **Active Repositories:** 68  
+🏗️ **Active Repositories:** 69  
 📦 **Archived Projects:** 2
 
 </div>
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-*Last updated: 2025-09-22 04:08 UTC*
+*Last updated: 2025-09-22 16:08 UTC*
 
 **🤖 This profile updates automatically twice daily**
 
